@@ -38,7 +38,8 @@
         <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
         
         <link rel="alternate" type="application/rss+xml" title="RSS" href="">
-        <link rel="hub" href="http://renem.superfeedr.com/" />
+        <link rel="hub" href="https://switchboard.p3k.io/">
+        
         <link rel="self" href="/" />
          <link rel="me" href="mailto:rene@renem.net" />
  
@@ -140,15 +141,17 @@ Jetzt werde ich zur Krönung des Tages noch meine müden Beine mit der <a href="
             
             <section class="author p-author h-card" rel="author">
                 <p>Words by <a href="/about" class="metatag" title="ReneM">ReneM</a></p>
-                
             </section>
             
             
-            <p class="f-post-time"><a href="/2015-06-07-der-erste-richtige-wettbewerb/" class="metatag u-url u-uid"><time class="dt-published" datetime="2015-06-07T00:00:00Z">June 7, 2015</time></a></p>
+            <p class="f-post-time">
+
+                <a href="/2015-06-07-der-erste-richtige-wettbewerb/" class="metatag u-url u-uid"><time class="dt-published" datetime="2015-06-07T00:00:00Z">June 7, 2015</time></a>
+            </p>
         </section>
                         
         <section class="f-2">
-            <section class="share">
+            <section class="share" style="align-content: center;">
                 <span>Share:
                 <a class="icon-twitter" href="http://twitter.com/share?text=Mein%20erster%20richtiger%20Laufwettbewerb&url=%2f2015-06-07-der-erste-richtige-wettbewerb%2f"
                     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
@@ -163,12 +166,32 @@ Jetzt werde ich zur Krönung des Tages noch meine müden Beine mit der <a href="
                     <i class="fa fa-google-plus"></i>
                 </a>
                 <a href="https://brid.gy/publish/twitter"></a>
+                    <div>
+	Have you written a <a href="https://indieweb.org/responses">response</a> to this? Let me know the <abbr title="Uniform Resource Locator">URL</abbr>
+	<form action="https://webmention.herokuapp.com/api/webmention" method="post">
+		<input name="source" placeholder="http://example.com/my-awesome-response" type="url">
+		<input name="target" value="/2015-06-07-der-erste-richtige-wettbewerb/" type="hidden">
+		<input value="Send Webmention" type="submit">
+	</form>
+</div>
+<br />
+
                 </span>
             </section>
 
             
         </section>
 
+    <script id="webmention-hosted">
+(function () {
+var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+url = url && url[0] ? url[0].href : false;
+sn.type = "text/javascript"; sn.async = true;
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+s.parentNode.insertBefore(sn, s);
+}());
+</script> 
 
 
                         
