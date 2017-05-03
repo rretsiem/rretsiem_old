@@ -19,32 +19,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Race</title>
-      <link>/categories/race/</link>
-      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/race/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sport</title>
-      <link>/categories/sport/</link>
-      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/sport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>/categories/tech/</link>
-      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tech/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

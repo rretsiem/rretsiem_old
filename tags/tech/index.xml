@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on ReneM</title>
-    <link>/categories/tech/</link>
+    <link>/tags/tech/</link>
     <description>Recent content in Tech on ReneM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Wed, 03 Jun 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Runalyze - Laufstatistiken soweit man Laufen kann</title>
-      <link>/2015-06-03-runalyze-laufstatistiken-soweit-man-laufen-kann/</link>
+      <link>/post/2015-06-03-runalyze-laufstatistiken-soweit-man-laufen-kann/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015-06-03-runalyze-laufstatistiken-soweit-man-laufen-kann/</guid>
+      <guid>/post/2015-06-03-runalyze-laufstatistiken-soweit-man-laufen-kann/</guid>
       <description>Ich bin vor ca. 3 Tagen auf ein mir bis dato unbekanntes Tool Namens Runalyze gestoßen. Zugegeben der Titel es Beitrages trifft nicht auf jeden zu, einige können sicherlich deutlich weiter Laufen als es Statistiken gibt.
 {% figure_img center 0 caption %}
 Das Tool möchte ich hier mal kurz vorstellen, einige kennen es vielleicht schon. Vielleicht kann auch nicht jeder etwas damit anfangen.
